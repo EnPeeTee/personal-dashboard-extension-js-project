@@ -59,6 +59,8 @@ main {
 
 #weather-top img {
     width: 50px;
+    margin-left: -10px;
+    margin-bottom: -5px;
 }
 
 #weather-top, #weather p {
@@ -71,5 +73,10 @@ main {
 }
 
 .time {
+    font-size: 5rem;
     text-align: center;
+}
+
+#author {
+    font-size: 1rem;
 }
